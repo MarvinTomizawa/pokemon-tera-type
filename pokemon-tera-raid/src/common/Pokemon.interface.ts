@@ -7,6 +7,7 @@ export interface PokemonMove {
     type: EType;
     status?: EStatus;
     terrain?: EWeather_Terrain;
+    category: ECategory;
 }
 
 export interface Pokemon {
