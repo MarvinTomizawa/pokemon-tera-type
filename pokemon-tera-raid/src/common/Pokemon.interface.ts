@@ -1,6 +1,7 @@
 import {EType} from "./types";
 import {EStatus} from "./status";
 import { EWeather_Terrain } from "./Weather_Terrain";
+import { ECategory } from "./Category";
 
 export interface PokemonMove {
     name: string;
