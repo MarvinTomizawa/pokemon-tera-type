@@ -1,7 +1,7 @@
 import {EType} from "../common/types";
 import {EStatus} from "../common/status";
 import {Pokemon} from "../common/Pokemon.interface";
-import { ECategory } from "../common/cayegory";
+import { ECategory } from "../common/category";
 
 export const Gengar: Pokemon = {
     name: "Gengar",
