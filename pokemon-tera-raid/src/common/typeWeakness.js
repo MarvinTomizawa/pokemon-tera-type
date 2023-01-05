@@ -1,0 +1,3 @@
+const DefenseWeakness = [];
+
+const AttackWeakness = [];
