@@ -12,5 +12,5 @@ export interface PokemonMove {
 export interface Pokemon {
     name: string;
     types: EType[];
-    mooves: PokemonMove[];
+    moves: PokemonMove[];
 }

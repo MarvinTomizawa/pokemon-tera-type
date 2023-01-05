@@ -4,7 +4,7 @@ import {Pokemon} from "../common/Pokemon.interface";
 
 export const BaseEnemy: Pokemon = {
     name: "Generico",
-    mooves: [
+    moves: [
         {
             name: 'Shadow ball',
             type: EType.Ghost,
