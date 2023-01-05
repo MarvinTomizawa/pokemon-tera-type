@@ -1,3 +1,0 @@
-const DefenseWeakness = [];
-
-const AttackWeakness = [];
