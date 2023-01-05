@@ -25,8 +25,9 @@ export const TaurosF: Pokemon = {
         },
         {
             name: 'Headbutt',
-            type: EType.Fighting,
+            type: EType.Normal,
             category: ECategory.Attack,
+            status: EStatus.Flinch,
         },
         {
             name: 'Sunny Day',
