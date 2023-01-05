@@ -6,5 +6,6 @@ export enum EStatus {
     AttackDown,
     DefenseDown, 
     SpDefDown,
-    spAttackDown,
+    SpAttackDown,
+    Flinch,
 };
