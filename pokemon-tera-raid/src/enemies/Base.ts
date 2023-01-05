@@ -11,7 +11,8 @@ export const BaseEnemy: Pokemon = {
             name: 'Shadow ball',
             type: EType.Ghost,
             status: EStatus.Poison,
-            category: ECategory.SP
+            category: ECategory.SPAttack,
+            terrain: EWeather_Terrain.Rain,
         },
     ],
     types: [EType.Ghost],

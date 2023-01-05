@@ -1,7 +1,7 @@
 import {EType} from "../common/types";
 import {EStatus} from "../common/status";
 import {Pokemon} from "../common/Pokemon.interface";
-import { ECategory } from "../common/cayegory";
+import { ECategory } from "../common/category";
 import { EWeather_Terrain } from "../common/Weather_Terrain";
 
 export const TaurosW: Pokemon = {
@@ -32,7 +32,7 @@ export const TaurosW: Pokemon = {
             name: 'Rain Dance',
             type: EType.Water,
             terrain: EWeather_Terrain.Rain,
-            category: ECategory.status,
+            category: ECategory.Status,
         },
         {
             name: 'Bulk Up',
