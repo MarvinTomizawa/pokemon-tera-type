@@ -4,7 +4,7 @@ import {Pokemon} from "../common/Pokemon.interface";
 
 export const Gengar: Pokemon = {
     name: "Gengar",
-    mooves: [
+    moves: [
         {
             name: 'Shadow ball',
             type: EType.Ghost,

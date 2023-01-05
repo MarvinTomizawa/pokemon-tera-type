@@ -5,7 +5,7 @@ import { EWeather_Terrain } from "../common/Weather_Terrain";
 
 export const TaurosF: Pokemon = {
     name: "Tauros (F)",
-    mooves: [
+    moves: [
         {
             name: 'Flare Blitz',
             type: EType.Fire,
