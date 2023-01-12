@@ -7,5 +7,8 @@ export enum EStatus {
     DefenseDown, 
     SpDefDown,
     SpAttackDown,
+    SpeedDown,
     Flinch,
+    Confusion,
+    Freeze,
 };
